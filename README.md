@@ -1,6 +1,6 @@
 # Moka United - PrestaShop Payment Gateway
 
-![image](https://optimisthub.com/cdn/moka/moka-prestashop-plugin.jpg?v=4)
+![Moka United - PrestaShop Payment Gateway](assets/cover.png)
 
 ## Requirements
 
